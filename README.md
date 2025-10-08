@@ -3,6 +3,13 @@ Oficjalnie zakładam nowe repozytorium na githubie w celu przechowywania wszelki
 
 Zachęcam do wrzucania tutaj waszych pomysłów co możemy zrealizować, zbudować, pomysły na aplikację, przydatne filmiki, linki, plany na przyszłość. Fajnie by było gdybyśmy powoli zaczęli ogarniać harmonogram i założenia projektowa. (Trzymamy kciuki, że niedługo dostaniemy odpowiedź na maila). 
 
+Dane kontaktowe do naszego opiekuna - Sławomira Ambroziaka
+* email: 
+slawomir.ambroziak@pg.edu.pl
+* tel: 
+583471577 (chuja nie telefon, nie odebrał ostatnio, ani nie oddzwonił, myślę, że to fake)
+* stacjonuje w EA 406
+
 Pomysły:
 * Stworzenie przykładowego trójwymiarowego projektu, który wizualizuje mniej więcje rozkład przykładowego pokoju, w którym znajdują się nasze rozwiązania, potem przy sprawozdaniach będziemy mogli np. opisać strzałeczkami różne funkcje. Jeszcze nie wiem czy chcemy osobne sprzęty np. przygotować, które można zamontować itd.
 
