@@ -8,3 +8,5 @@ Pomysły:
 
 Tipy:
 * Dzisiaj na wykładach z mikrokontrolerów dowiedzieliśmy się, że połączenie Zigbee z under(coś) zapewnia długą i stabliną pracę mikrokontrolerów przez parę miesięcy (przydatne)
+
+I BŁAGAM NIE NADPISUJCIE W PRZYSZŁOŚCI PLIKÓW, JEŚLI NIE JESTEŚCIE PEWNI, ŻE DZIAŁA I BEZ KONSULTACJI DZIEKUJE
