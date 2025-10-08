@@ -1,0 +1,1 @@
+Dzień dobry, jest to folder przeznaczony wyłącznie do dokumentów formalnych tzn. sprawozdania, harmonogram, inne papierologie związane z zamówieniami, realizacją projektu, itd, itp. Wrzucę tutaj (zobaczymy czy dzisiaj) wszystkie dokumenty, które są warte przeczytania pod względem realizacji przedmiotu 
