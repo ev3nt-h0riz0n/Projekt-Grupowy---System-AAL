@@ -1,28 +1,32 @@
 <h1>Projekt Grupowy : System-AAL </h1>
 Oficjalnie zakładam nowe repozytorium na githubie w celu przechowywania wszelkich potrzebnych plików i pomysłów do utworzenia projektów - Pan Kierownik
-
+<br>
 Zachęcam do wrzucania tutaj waszych pomysłów co możemy zrealizować, zbudować, pomysły na aplikację, przydatne filmiki, linki, plany na przyszłość. Fajnie by było gdybyśmy powoli zaczęli ogarniać harmonogram i założenia projektowa. (Trzymamy kciuki, że niedługo dostaniemy odpowiedź na maila). 
 
 <h3> Dane kontaktowe do naszego opiekuna - dr hab. inż. Sławomira Ambroziaka </h3>
-* email: 
-slawomir.ambroziak@pg.edu.pl
-* tel: 
-583471577 (myśle, że fake)
-* stacjonuje w EA 406
-
+<ul>
+<li>email: 
+slawomir.ambroziak@pg.edu.pl</li> 
+<li>tel: 
+583471577 (myśle, że fake)</li>
+<li>stacjonuje w EA 406</li>
+</ul>
 <h3>Dane kontaktowe do koordynatora projektów na WETI - dr inż. Sławomir Gajewski</h3>
-* email: slawomir.gajewski@pg.edu.pl
-* stacjonuje w EA 434
-* konsultacje: poniedziałek 11:30 - 12:30 (lub inny termin jeśli się z nim umówimy)
+<ul>
+<li>email: 
+slawomir.gajewski@pg.edu.pl</li> 
+<li>stacjonuje w EA 434</li>
+<li>konsultacje: poniedziałek 11:30 - 12:30 (lub inny termin jeśli się z nim umówimy)</li>
+</ul>
 
-<h3><b>Co musimy zrobić !!!!</b></h3>
-* Zdefiniować harmonogram i dać go do zatwierdzenia opiekunowi (niektóre daty będą narzucone przez koordynatora)
-* Stworzyć i terminowo umieszczać w SPG (Studenckie projekty grupowe na mojaPG) wymaganej dokumentacji projektowej
+<h3>Co musimy zrobić !!!!</h3>
+* Zdefiniować harmonogram i dać go do zatwierdzenia opiekunowi (niektóre daty będą narzucone przez koordynatora) <br>
+* Stworzyć i terminowo umieszczać w SPG (Studenckie projekty grupowe na mojaPG) wymaganej dokumentacji projektowej <br>
 * Opracować plakat (w języku polskim i angielskim), umieścić go w systemie pod koniec
 I semestru oraz zaaktualizować na koniec II semestru. Plakat zawiera informacje o temacie,
 wykonawcach, podstawowych zadaniach i osiągniętych rezultatach; plakat studenci wykonują wg
-jednolitego wzorca (patrz „zasady dokumentowania wyników); - może to skopiowałem, ale tylko może
-* Opracować prezentację na koniec 1 sem i wrzucić na PG
+jednolitego wzorca (patrz „zasady dokumentowania wyników); - może to skopiowałem, ale tylko może <br>
+* Opracować prezentację na koniec 1 sem i wrzucić na PG <br>
 * Obviously zrobić projekt i spełnić ew. dodatkowe wymagania określone przez opiekuna
 
 
