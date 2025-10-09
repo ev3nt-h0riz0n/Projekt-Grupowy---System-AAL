@@ -34,7 +34,7 @@ jednolitego wzorca (patrz „zasady dokumentowania wyników); - może to skopiow
 * Stworzenie przykładowego trójwymiarowego projektu, który wizualizuje mniej więcje rozkład przykładowego pokoju, w którym znajdują się nasze rozwiązania, potem przy sprawozdaniach będziemy mogli np. opisać strzałeczkami różne funkcje. Jeszcze nie wiem czy chcemy osobne sprzęty np. przygotować, które można zamontować itd.
 
 <h3>Tipy:</h3>
-* Dzisiaj na wykładach z mikrokontrolerów dowiedzieliśmy się, że połączenie Zigbee z under(coś) zapewnia długą i stabliną pracę mikrokontrolerów przez parę miesięcy (przydatne)
+* Dzisiaj na wykładach z mikrokontrolerów dowiedzieliśmy się, że połączenie Zigbee z underclocking zapewnia długą i stabliną pracę mikrokontrolerów przez parę miesięcy (przydatne)
 
 <h3>Linki:</h3>
 <ul>
