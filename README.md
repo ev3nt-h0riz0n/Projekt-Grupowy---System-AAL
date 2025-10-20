@@ -31,6 +31,26 @@ jednolitego wzorca (patrz „zasady dokumentowania wyników); - może to skopiow
 
 <h3>Dodatkowy dysk OneDrive</h3>
 https://pgedupl-my.sharepoint.com/:f:/g/personal/s198415_student_pg_edu_pl/EogACVnk2wdOuXVCr_lWY64BhTcPNu8-9S_a8h293hBznQ?e=LCc9S4 <br>
+================================================================================
+<h2> Poradnik klonowania repozytorium na swoj komputer i edytowania z poziomu gitbash </h2>
+<ol>
+  <li> Pobranie gitbasha - 
+  Pierwsze co chcemy zrobic, to pobrac gitbasha na komputer (jestem pewien, ze i tak go macie po zajeciach z przeszlych semestrow, ale dla swietego spokoju dam linka) https://git-scm.com/install/windows </li>
+  <li> Konfiguracja danych użytkownika - otwieramy basha, pojawi nam się okno komend. Wpisujemy dwie formułki. W mailu wpiszcie maila, z ktorego korzystacie na githubie.<br>
+  git config --global user.name "Twoje Imię" <br>
+  git config --global user.email "twojemail@example.com" <br>
+  </li>
+  <li> Klonowanie repozytorium - Aby pobrac repo na swoj komputer nalezy wpisać: <br>
+  git clone https://github.com/ev3nt-h0riz0n/Projekt-Grupowy---System-AAL <br>
+  Repozytorium powinno być teraz w formie foldery w Mój Komputer -> Użytkownicy -> Wasz użytkownik jakkolwiek się nazywa -> Projekt-Grupowy---System-AAL
+  </li>
+  <li> Sprawdzenie czy jesteście zdalnie połączeni <br>
+  cd Projekt-Grupowy---System-AAL <br>
+  git remote -v<br>
+  Jeśli wszystko poszło git, to powinny wam się wyświetlić takie linijki: <br>
+  origin  https://github.com/nazwa-uzytkownika/nazwa-repo.git (fetch)<br>
+  origin  https://github.com/nazwa-uzytkownika/nazwa-repo.git (push)</li>
+</ol>
 
 <h3>Zasady korzystania z repozytorium</h3>
 W związku z tym, że każde pliki są dla nas ważne - nawet stare wersje (szczególnie dokumentacji) - bardzo zachęcam do tworzenia różnych wersji i nie nadpisywania. Chciałbym też żebyście zapoznali się z ideą branchy (rozgałęzienia) na githubie. Tutaj mam na myśli kod do oprogramowania! Jest pełno filmików na yt o tym. W najbliższym czasie dodam ustawienie, że przy mergowaniu branchy będzie potrzebne zatwierdzenie dodatkowych dwóch lub jednej innej osoby z zespołu (Ik, wydaje się kontrolujące, ale to dla naszego bezpieczeństwa).
