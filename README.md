@@ -1,7 +1,7 @@
 <h1>Projekt Grupowy : System-AAL </h1>
 Oficjalnie zakładam nowe repozytorium na githubie w celu przechowywania wszelkich potrzebnych plików i pomysłów do utworzenia projektów - Pan Kierownik
 <br>
-Zachęcam do wrzucania tutaj waszych pomysłów co możemy zrealizować, zbudować, pomysły na aplikację, przydatne filmiki, linki, plany na przyszłość. Fajnie by było gdybyśmy powoli zaczęli ogarniać harmonogram i założenia projektowa. (Trzymamy kciuki, że niedługo dostaniemy odpowiedź na maila). 
+Zachęcam do wrzucania tutaj waszych pomysłów jak możemy realizować założenia, zbudować urządzenia, pomysły na aplikację, przydatne filmiki, linki, plany na przyszłość. Fajnie by było gdybyśmy powoli zaczęli ogarniać harmonogram i określać sobie w głowie co chcecie robić tak właściwie.
 
 <h3> Dane kontaktowe do naszego opiekuna - dr hab. inż. Sławomira Ambroziaka </h3>
 <ul>
@@ -29,9 +29,14 @@ jednolitego wzorca (patrz „zasady dokumentowania wyników); - może to skopiow
 * Opracować prezentację na koniec 1 sem i wrzucić na PG <br>
 * Obviously zrobić projekt i spełnić ew. dodatkowe wymagania określone przez opiekuna
 
+<h3>Dodatkowy dysk OneDrive</h3>
+https://pgedupl-my.sharepoint.com/:f:/g/personal/s198415_student_pg_edu_pl/EogACVnk2wdOuXVCr_lWY64BhTcPNu8-9S_a8h293hBznQ?e=LCc9S4 <br>
+
+<h3>Zasady korzystania z repozytorium</h3>
+W związku z tym, że każde pliki są dla nas ważne - nawet stare wersje (szczególnie dokumentacji) - bardzo zachęcam do tworzenia różnych wersji i nie nadpisywania. Chciałbym też żebyście zapoznali się z ideą branchy (rozgałęzienia) na githubie. Tutaj mam na myśli kod do oprogramowania! Jest pełno filmików na yt o tym. W najbliższym czasie dodam ustawienie, że przy mergowaniu branchy będzie potrzebne zatwierdzenie dodatkowych dwóch lub jednej innej osoby z zespołu (Ik, wydaje się kontrolujące, ale to dla naszego bezpieczeństwa).
 
 <h3>Pomysły: </h3>
-* Stworzenie przykładowego trójwymiarowego projektu, który wizualizuje mniej więcje rozkład przykładowego pokoju, w którym znajdują się nasze rozwiązania, potem przy sprawozdaniach będziemy mogli np. opisać strzałeczkami różne funkcje. Jeszcze nie wiem czy chcemy osobne sprzęty np. przygotować, które można zamontować itd.
+* Stworzenie przykładowego trójwymiarowego projektu, który wizualizuje mniej więcej rozkład przykładowego pokoju, w którym znajdują się nasze rozwiązania, potem przy sprawozdaniach będziemy mogli np. opisać strzałeczkami różne funkcje. Jeszcze nie wiem czy chcemy osobne sprzęty np. przygotować, które można zamontować itd.
 
 <h3>Tipy:</h3>
 * Dzisiaj na wykładach z mikrokontrolerów dowiedzieliśmy się, że połączenie Zigbee z under(coś) zapewnia długą i stabliną pracę mikrokontrolerów przez parę miesięcy (przydatne)
