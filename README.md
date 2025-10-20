@@ -43,4 +43,5 @@ jednolitego wzorca (patrz „zasady dokumentowania wyników); - może to skopiow
 </ul>
 
 I BŁAGAM NIE NADPISUJCIE W PRZYSZŁOŚCI PLIKÓW, JEŚLI NIE JESTEŚCIE PEWNI, ŻE DZIAŁA I BEZ KONSULTACJI DZIEKUJE
-<img width="646" height="627" alt="image" src="https://github.com/user-attachments/assets/2f3b7cae-fc98-49ce-8826-c403460a9be2" />
+<img width="1131" height="451" alt="image" src="https://github.com/user-attachments/assets/f05ceebb-abae-4683-bfb2-4b971be0a0b3" />
+
